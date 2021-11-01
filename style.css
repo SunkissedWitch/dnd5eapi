@@ -1,0 +1,13 @@
+html {
+  font-size: 12px;
+}
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  padding: 2rem 0;
+  font-size: 3rem;
+}
